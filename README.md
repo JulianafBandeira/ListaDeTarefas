@@ -2,6 +2,8 @@
 
 Este é um aplicativo de Lista de Tarefas desenvolvido para ajudar você a gerenciar suas atividades de forma simples e eficiente. Com ele, é possível criar, editar, concluir, pesquisar e filtrar suas tarefas conforme sua necessidade.
 
+ <img src="https://github.com/user-attachments/assets/14326492-b445-4b49-9393-de7598529db4" width="800">
+
 ## Funcionalidades
 
 - **Adicionar Tarefas**: Adicione novas tarefas à sua lista com facilidade.
@@ -9,6 +11,7 @@ Este é um aplicativo de Lista de Tarefas desenvolvido para ajudar você a geren
 - **Editar Tarefas**: Edite tarefas existentes para corrigir ou atualizar informações.
 - **Pesquisar Tarefas**: Encontre rapidamente tarefas específicas usando a função de pesquisa.
 - **Filtrar Tarefas**: Filtre suas tarefas por status, exibindo todas, apenas as concluídas ou as pendentes.
+
 
 ## Tecnologias Utilizadas
 
