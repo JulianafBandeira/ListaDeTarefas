@@ -1,6 +1,6 @@
 <h1 align="center">ListaDeTarefas</h1>
 
-Este é um aplicativo de Lista de Tarefas desenvolvido para ajudar você a gerenciar suas atividades de forma simples e eficiente. Com ele, é possível criar, editar, concluir, pesquisar e filtrar suas tarefas conforme sua necessidade.
+Este é um aplicativo de Lista de Tarefas desenvolvido para ajudar você a gerenciar suas atividades de forma simples e eficiente. Com ele, é possível criar, deletar, editar, concluir, pesquisar e filtrar suas tarefas conforme sua necessidade.
 
 <div align="center"> 
  <img src="https://github.com/user-attachments/assets/14326492-b445-4b49-9393-de7598529db4" width="800">
