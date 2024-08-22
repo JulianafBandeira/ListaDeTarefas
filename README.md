@@ -12,11 +12,9 @@ Este é um aplicativo de Lista de Tarefas desenvolvido para ajudar você a geren
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estruturação do conteúdo da página.
-- **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Interatividade e manipulação das tarefas.
-- **Ionicons**: Ícones para botões de ação.
-- **Background Image**: Adição de uma imagem de fundo para melhorar a estética do aplicativo.
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ## Como Usar
 
